@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First</string>
+    <string-array name="locations">
+        <item>Naupada</item>
+        <item>Gokhale road</item>
+        <item>Pavoi Lake</item>
+        <item>Terminal 2</item>
+        <item>Aarey Colony</item>
+    </string-array>
+</resources>
